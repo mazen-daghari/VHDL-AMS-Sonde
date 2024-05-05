@@ -1,2 +1,2 @@
 # VHDL-AMS-Sonde
-description d'une sonde a  base de VHDL AMS (SIMPLORER V7)
+description d'un capteur ECG a  base de VHDL-AMS (SIMPLORER V7) 
