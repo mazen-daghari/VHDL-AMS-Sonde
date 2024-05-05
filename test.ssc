@@ -1,0 +1,30 @@
+; SIMPLORER Project File - Do not modify !!!
+
+[General]
+ProjectName=test
+ProjectPath=e:\simple\basic
+Description=
+CreationBy=Windows User
+CreationAt=Thu May 02 14:18:30 2024
+ModificationBy=Mazenkovic
+ModificationAt=Sun May 05 15:48:39 2024
+LastPrg=Powder70
+LastSim=sim
+LastAna=0
+LastSort=0
+
+[Comment]
+LinesInComment=0
+
+[FileList]
+NumberOfFiles=10
+File0=.\tp3.SSH
+File1=.\tp3.sml
+File2=.\tp3.sdb
+File3=.\tp3.vtc
+File4=.\analog filter.sml
+File5=.\analog filter.sdb
+File6=.\multivibrator.ssh
+File7=.\multivibrator.sml
+File8=.\multivibrator.sdb
+File9=e:\simple\converter\buck.ssh

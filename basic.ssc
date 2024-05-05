@@ -1,0 +1,50 @@
+; SIMPLORER Project File - Do not modify !!!
+
+[General]
+ProjectName=basic
+ProjectPath=c:\views\simplorer7_view\simplorer\copy2cd\examples\applications\simple\basic
+Description=
+CreationBy=Fichtner
+CreationAt=Mon Sep 24 15:03:56 2001
+ModificationBy=Deepika Devarajan
+ModificationAt=Thu Apr 01 16:44:04 2004
+LastPrg=Powder70
+LastSim=sim
+LastAna=0
+LastSort=0
+
+[Comment]
+LinesInComment=0
+
+[FileList]
+NumberOfFiles=30
+File0=.\analog filter.ssh
+File1=.\frequency divider.ssh
+File2=.\frequency_divider_interactive.ssh
+File3=.\mixer.ssh
+File4=.\mixer2.ssh
+File5=.\quick1.ssh
+File6=.\quick2.ssh
+File7=.\quick3.ssh
+File8=.\quick4.ssh
+File9=.\rlc.ssh
+File10=.\voltage protection using a varistor.ssh
+File11=.\non-ideal switch.ssh
+File12=.\simulation of an inductance with current compensation.ssh
+File13=.\periodical_signal_in_a_certain_time_period.ssh
+File14=.\analog filter.sdb
+File15=.\frequency divider.sdb
+File16=.\frequency_divider_interactive.sdb
+File17=.\mixer.sdb
+File18=.\mixer2.sdb
+File19=.\quick1.sdb
+File20=.\quick2.sdb
+File21=.\quick3.sdb
+File22=.\quick4.sdb
+File23=.\rlc.sdb
+File24=.\voltage protection using a varistor.sdb
+File25=.\non-ideal switch.sdb
+File26=.\simulation of an inductance with current compensation.sdb
+File27=.\periodical_signal_in_a_certain_time_period.sdb
+File28=.\multivibrator.ssh
+File29=.\multivibrator.sdb
